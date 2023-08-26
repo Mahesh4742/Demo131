@@ -19,7 +19,7 @@ def linear_search(a, key):
 a = [5,8,4,6,9,2]
 print("The array elements are:", a)
 
-k = int(input("Enter the key element to search: "))
+k = int(input("Enter the key element to be search: "))
 
 
 index = linear_search(a, k)
