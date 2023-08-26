@@ -26,7 +26,8 @@ index = linear_search(a, k)
 
 if index == -1:
     print("Search Unsuccessful")
-else:
+elif:
     print("Search Successful, key found at location:", index + 1)
 
-
+else:
+    print("error")
